@@ -34,7 +34,7 @@ jobs:
       - name: Debug: Verify dist folder
         run: |
           echo "📁 Contents of dist/:"
-          ls -la dist/ || echo "❌ Папка dist не найдена!"
+          ls -la dist/ || echo "Папка dist не найден"
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
