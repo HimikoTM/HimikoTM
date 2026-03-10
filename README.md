@@ -4,6 +4,7 @@
 
 ---
 
+### 🛠 Технологии и инструменты
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -21,9 +22,13 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimikoTM&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+### 📊 Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimikoTM&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimikoTM&theme=tokyonight&hide_border=true&locale=ru)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HimikoTM&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HimikoTM&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 ---
 
