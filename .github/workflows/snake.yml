@@ -31,10 +31,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug: Verify dist folder
+      - name: Debug - Verify dist folder
         run: |
-          echo "📁 Contents of dist/:"
-          ls -la dist/ || echo "Папка dist не найден"
+          echo "Contents of dist/:"
+          ls -la dist/ || echo "dist folder not found"
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -42,5 +42,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: false
+          force_orphan: true
           full_commit_message: "Update snake animation [skip ci]"
